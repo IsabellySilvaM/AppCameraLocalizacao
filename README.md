@@ -1,3 +1,4 @@
+Link do app: (https://expo.dev/accounts/mariaisa07/projects/appCameraLocalizacao/builds/52598fdc-ba3a-40dc-b6d7-6b5a264df11c)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
